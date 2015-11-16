@@ -1,4 +1,4 @@
 
 # this is the first file.
 # hello world.
-# hello.
+# hello.  now let's see some conflicts.
